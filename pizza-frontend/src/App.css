@@ -1,0 +1,66 @@
+body {
+    padding: 30px;
+    background-color: darkorange;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.pizzaCrust {
+    border-style: groove;
+    background-color: orangered;
+    border-color: black;
+    padding: 5px;
+    border-width: 5px;
+    margin: auto;
+    margin-top: 5px;
+    max-width: 450px;
+}
+
+.pizzaSauce {
+    border-style: groove;
+    background-color: orangered;
+    border-color: black;
+    padding: 5px;
+    border-width: 5px;
+    margin: auto;
+    margin-top: 5px;
+    max-width: 450px;
+}
+
+.pizzaToppings {
+    border-style: groove;
+    border-color: black;
+    background-color: orangered;
+    padding: 5px;
+    border-width: 5px;
+    margin: auto;
+    margin-top: 5px;
+    max-width: 450px;
+}
+
+.order {
+    border-color: black;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-width: 300px;
+}
+
+.ttt {
+    border-style: groove;
+    padding: 5px;
+    background-color: orangered;
+    border-color: black;
+    border-width: 5px;
+    margin: auto;
+    max-width: 300px;
+}
+
+.link {
+    color: black;
+}
+
+.input {
+    margin-right: 10px;
+    margin-bottom: 7px;
+}
